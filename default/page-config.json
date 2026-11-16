@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "domain": "servicio-jingles.music.lynxpardelle.com",
+  "pageId": "default",
+  "rootIds": [
+    "site-shell"
+  ],
+  "modalRootIds": [],
+  "seo": {
+    "title": "Jingles y música para publicidad | Lynx Pardelle",
+    "description": "Encuentra un sonido para tu anuncio, desde un tema principal que identifique la campaña hasta una base musical que acompañe su mensaje.",
+    "canonical": "https://servicio-jingles.music.lynxpardelle.com/",
+    "robots": "index,follow",
+    "openGraph": {
+      "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/images/lynx-offer-v1-servicio-mezcla.webp"
+    }
+  }
+}
