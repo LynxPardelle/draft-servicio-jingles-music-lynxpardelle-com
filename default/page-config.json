@@ -7,12 +7,56 @@
   ],
   "modalRootIds": [],
   "seo": {
-    "title": "Jingles y música para publicidad | Lynx Pardelle",
-    "description": "Encuentra un sonido para tu anuncio, desde un tema principal que identifique la campaña hasta una base musical que acompañe su mensaje.",
+    "title": "Jingles y música original para anuncios | Lynx Pardelle",
+    "description": "Define el sonido de un anuncio con un tema de campaña o una base musical. Comparte tu guion, la duración y el canal de la pieza publicitaria.",
     "canonical": "https://servicio-jingles.music.lynxpardelle.com/",
     "robots": "index,follow",
     "openGraph": {
+      "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/servicio-jingles-r2-a8ec9c3fab6d6359.webp",
+      "title": "Jingles y música original para anuncios | Lynx Pardelle",
+      "description": "Define el sonido de un anuncio con un tema de campaña o una base musical. Comparte tu guion, la duración y el canal de la pieza publicitaria.",
+      "url": "https://servicio-jingles.music.lynxpardelle.com/",
+      "imageAlt": "Montaje de estudio para grabar música publicitaria."
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Jingles y música original para anuncios | Lynx Pardelle",
+      "description": "Define el sonido de un anuncio con un tema de campaña o una base musical. Comparte tu guion, la duración y el canal de la pieza publicitaria.",
       "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/servicio-jingles-r2-a8ec9c3fab6d6359.webp"
     }
+  },
+  "structuredData": {
+    "entries": [
+      {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "@id": "https://servicio-jingles.music.lynxpardelle.com/#webpage",
+        "name": "Jingles y música para publicidad",
+        "description": "Define el sonido de un anuncio con un tema de campaña o una base musical. Comparte tu guion, la duración y el canal de la pieza publicitaria.",
+        "url": "https://servicio-jingles.music.lynxpardelle.com/",
+        "inLanguage": "es",
+        "isPartOf": {
+          "@type": "CollectionPage",
+          "name": "Servicios",
+          "url": "https://music.lynxpardelle.com/servicios"
+        },
+        "mainEntity": {
+          "@id": "https://servicio-jingles.music.lynxpardelle.com/#contenido-de-la-oferta"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Service",
+        "@id": "https://servicio-jingles.music.lynxpardelle.com/#contenido-de-la-oferta",
+        "name": "Jingles y música para publicidad",
+        "description": "Define el sonido de un anuncio con un tema de campaña o una base musical. Comparte tu guion, la duración y el canal de la pieza publicitaria.",
+        "url": "https://servicio-jingles.music.lynxpardelle.com/",
+        "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/servicio-jingles-r2-a8ec9c3fab6d6359.webp",
+        "provider": {
+          "@id": "https://lynxpardelle.com/#person"
+        },
+        "serviceType": "Jingles y música para publicidad"
+      }
+    ]
   }
 }
